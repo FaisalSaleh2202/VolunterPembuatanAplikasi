@@ -5,3 +5,4 @@ Repository ini digunakan untuk sayembara pencarian volunter pembuatan aplikasi, 
 
 Berikut nama volunter yang diterima:
 - Luffy, lufyy.co.id
+- Zoro, zoro.co.id
