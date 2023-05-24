@@ -4,3 +4,4 @@ Repository ini digunakan untuk sayembara pencarian volunter pembuatan aplikasi, 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
 Berikut nama volunter yang diterima:
+- Luffy, lufyy.co.id
